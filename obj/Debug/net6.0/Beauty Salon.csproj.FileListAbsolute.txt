@@ -1,0 +1,14 @@
+C:\mycode\Python\Beauty Salon\bin\Debug\net6.0\Beauty Salon.exe
+C:\mycode\Python\Beauty Salon\bin\Debug\net6.0\Beauty Salon.deps.json
+C:\mycode\Python\Beauty Salon\bin\Debug\net6.0\Beauty Salon.runtimeconfig.json
+C:\mycode\Python\Beauty Salon\bin\Debug\net6.0\Beauty Salon.dll
+C:\mycode\Python\Beauty Salon\bin\Debug\net6.0\Beauty Salon.pdb
+C:\mycode\Python\Beauty Salon\obj\Debug\net6.0\Beauty Salon.GeneratedMSBuildEditorConfig.editorconfig
+C:\mycode\Python\Beauty Salon\obj\Debug\net6.0\Beauty Salon.AssemblyInfoInputs.cache
+C:\mycode\Python\Beauty Salon\obj\Debug\net6.0\Beauty Salon.AssemblyInfo.cs
+C:\mycode\Python\Beauty Salon\obj\Debug\net6.0\Beauty Salon.csproj.CoreCompileInputs.cache
+C:\mycode\Python\Beauty Salon\obj\Debug\net6.0\Beauty Salon.dll
+C:\mycode\Python\Beauty Salon\obj\Debug\net6.0\refint\Beauty Salon.dll
+C:\mycode\Python\Beauty Salon\obj\Debug\net6.0\Beauty Salon.pdb
+C:\mycode\Python\Beauty Salon\obj\Debug\net6.0\Beauty Salon.genruntimeconfig.cache
+C:\mycode\Python\Beauty Salon\obj\Debug\net6.0\ref\Beauty Salon.dll
