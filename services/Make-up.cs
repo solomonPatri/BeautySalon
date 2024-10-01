@@ -4,12 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Beauty_Salon.user
+namespace Beauty_Salon.services
 {
-    public class Client: User,IComparable<Client>
+    public class Make_up
     {
-      
-      
+
+        private int _id_Make;
+        private string _name;
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace Beauty_Salon.user
 {
-    public class Angajat
+    public class Angajat : User , IComparable<Angajat>
     {
-
-
-
+       
 
 
 
